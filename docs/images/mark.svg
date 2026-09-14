@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Milsim concept mark">
+  <rect width="64" height="64" fill="#05070A"/>
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="#FF3B00" stroke-width="2"/>
+  <path fill="none" stroke="#FF3B00" stroke-width="2" d="M2 12h9V2M62 12h-9V2M2 52h9v10M62 52h-9v10"/>
+  <circle cx="32" cy="32" r="13" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <path stroke="#FFFFFF" stroke-width="2" d="M32 8v48M8 32h48"/>
+  <circle cx="32" cy="32" r="3.2" fill="#FF3B00"/>
+</svg>
