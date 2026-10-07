@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ShugokiFable/Cool-Milsim-Website-Concept/actions/workflows/ci.yml"><img src="https://github.com/ShugokiFable/Cool-Milsim-Website-Concept/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/SenjuWoo/Cool-Milsim-Website-Concept/actions/workflows/ci.yml"><img src="https://github.com/SenjuWoo/Cool-Milsim-Website-Concept/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-00F0FF?labelColor=05070A" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/stack-HTML%20%2B%20Tailwind%20CDN-FF3B00?labelColor=05070A" alt="HTML plus Tailwind CDN">
   <img src="https://img.shields.io/badge/concept-fiction-8f9aa6?labelColor=05070A" alt="Fiction">
@@ -61,7 +61,7 @@ GitHub Pages is **not** published for this repo.
 Needs a network connection on first load: Tailwind CDN, Three.js r128, Lucide, Google Fonts (Chakra Petch, JetBrains Mono, Space Grotesk).
 
 ```powershell
-git clone https://github.com/ShugokiFable/Cool-Milsim-Website-Concept.git
+git clone https://github.com/SenjuWoo/Cool-Milsim-Website-Concept.git
 cd Cool-Milsim-Website-Concept
 python -m http.server 4173
 ```
